@@ -1,7 +1,7 @@
 # FuzzyWuzzy
 This Jupyter notebook compares two lists using fuzzy matching and outputs the matches.
 
-Dependencies: pip install fuzzywuzzy
+Dependencies: `pip install fuzzywuzzy`
 
 Left the output so you could see a few things.
 First, the error you may get if you don't have the proper library installed.
